@@ -1,3 +1,4 @@
+# How to run
 Build jar
 
 ```bash
@@ -9,7 +10,7 @@ Run benchmark
 $ java -jar target/benchmarks.jar BenchmarkJsondb
 ```
 
-Benchmark result
+# Benchmark result
 with 10000 rows Document
 
 ```
