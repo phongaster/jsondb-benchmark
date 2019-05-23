@@ -38,3 +38,19 @@ with 500 rows Document
 Benchmark             Mode  Cnt  Score   Error  Units
 BenchmarkJsondb.find  avgt    5  1.029 ± 0.031  ms/op
 ```
+
+# Other
+Environment info
+
+```
+  Model Name:	MacBook Pro
+  Model Identifier:	MacBookPro14,3
+  Processor Name:	Intel Core i7
+  Processor Speed:	2.9 GHz
+  Number of Processors:	1
+  Total Number of Cores:	4
+  L2 Cache (per Core):	256 KB
+  L3 Cache:	8 MB
+  Hyper-Threading Technology:	Enabled
+  Memory:	16 GB
+```
